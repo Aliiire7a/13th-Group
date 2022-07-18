@@ -1,5 +1,5 @@
 import random
-import re  # Vase Split
+import re  
 
 print("Welcome to My Game \n Here You Have a Chance to Play the Game of Rock-Paper-Scissors With Me"
       "\n Rules Are Simple : \n Rock Smashes Scissors \n Scissors Cut Paper \n Paper Covers Rock "
